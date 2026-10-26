@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    float n = 12.5f;
+    printf("%.1f", n);
+    return 0;
+}
